@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS addon with Alfred for macOS automatic Addon - OCR-support and file-encryption. Featuring OCR-support and file-encryption, it's the best choice
 
 
 
